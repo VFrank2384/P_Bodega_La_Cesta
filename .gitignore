@@ -13,3 +13,8 @@ env/
 # Archivos de sistema (Mac/Windows)
 .DS_Store
 Thumbs.db
+
+# Archivos de configuración y secretos
+.env
+.venv/
+__pycache__/
