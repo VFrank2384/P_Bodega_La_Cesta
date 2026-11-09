@@ -1,7 +1,7 @@
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 's123456', 
+    'password': 'tu_contraseña', 
     'database': 'bodega_la_cesta'
 }
 
